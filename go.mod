@@ -1,4 +1,4 @@
-module booktracker
+module api-booktracker
 
 go 1.26.4
 

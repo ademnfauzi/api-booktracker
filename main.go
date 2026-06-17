@@ -1,8 +1,8 @@
 package main
 
 import (
-	"booktracker/config"
-	"booktracker/routes"
+	"api-booktracker/config"
+	"api-booktracker/routes"
 
 	"github.com/gin-gonic/gin"
 )
